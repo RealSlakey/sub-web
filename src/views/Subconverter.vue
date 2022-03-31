@@ -281,7 +281,6 @@ export default {
                   "https://cdn.jsdelivr.net/gh/RealSlakey/sub-web@master/config/W1nd.ini"
               },
               {
-              {
                 label: "Maying",
                 value:
                   "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/customized/maying.ini"
