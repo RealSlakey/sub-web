@@ -255,7 +255,7 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "http://127.0.0.1:25500/sub?" }],
+        backendOptions: [{ value: "https://sapi.slakey.top/sub?" }],
         remoteConfig: [
           {
             label: "universal",
@@ -275,6 +275,12 @@ export default {
           {
             label: "customized",
             options: [
+              {
+                label: "W1nd-推荐",
+                value:
+                  "https://cdn.jsdelivr.net/gh/RealSlakey/sub-web@master/config/W1nd.ini"
+              },
+              {
               {
                 label: "Maying",
                 value:
