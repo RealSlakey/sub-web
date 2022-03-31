@@ -261,6 +261,11 @@ export default {
             label: "universal",
             options: [
               {
+                label: "W1nd-推荐",
+                value:
+                  "https://cdn.jsdelivr.net/gh/RealSlakey/sub-web@master/config/URLTESTwithSTEAM.ini"
+              },
+              {
                 label: "No-Urltest",
                 value:
                   "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/universal/no-urltest.ini"
