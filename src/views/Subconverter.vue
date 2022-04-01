@@ -261,7 +261,7 @@ export default {
             label: "universal",
             options: [
               {
-                label: "W1nd-推荐",
+                label: "URLTESTwithSTEAM",
                 value:
                   "https://cdn.jsdelivr.net/gh/RealSlakey/sub-web@master/config/URLTESTwithSTEAM.ini"
               },
@@ -280,6 +280,11 @@ export default {
           {
             label: "customized",
             options: [
+              {
+                label: "ACL4SSR_Online_Full_AdblockPlus",
+                value:
+                  "https://cdn.jsdelivr.net/gh/RealSlakey/sub-web@master/config/ACL4SSR_Online_Full_AdblockPlus.ini"
+              },
               {
                 label: "W1nd-推荐",
                 value:
